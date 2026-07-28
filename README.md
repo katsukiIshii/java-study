@@ -2,5 +2,5 @@
 
 Java学習用のリポジトリです。
 
-Pull Requestの練習
+PC2からの変更
 
